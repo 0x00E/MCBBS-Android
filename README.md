@@ -1,2 +1,2 @@
 # MCBBS-Android
-MCBBS Android Client
+MCBBS Android App

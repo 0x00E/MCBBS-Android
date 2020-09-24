@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="skin_options">
+        <item>低调灰</item>
+        <item>活力蓝</item>
+    </string-array>
+    <string-array name="skin_options_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+</resources>

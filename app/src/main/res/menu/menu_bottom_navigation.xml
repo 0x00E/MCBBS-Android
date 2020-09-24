@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/index"
+        android:icon="@drawable/apple"
+        android:title="首页" />
+    <item
+        android:id="@+id/plugin"
+        android:icon="@drawable/diamond"
+        android:title="插件" />
+    <item
+        android:id="@+id/mod"
+        android:icon="@drawable/gold_ingot"
+        android:title="Mod" />
+    <item
+        android:id="@+id/login"
+        android:icon="@drawable/emerald"
+        android:title="登录" />
+    <item
+        android:id="@+id/change"
+        android:icon="@drawable/redstone_dust"
+        android:title="切换" />
+</menu>

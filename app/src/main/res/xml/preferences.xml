@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <com.github.qianniancc.mcbbs.util.MyPreferenceCategory android:title="常规">
+        <CheckBoxPreference
+            android:key="antiImg"
+            android:summary="禁止显示图片"
+            android:title="节省流量" />
+        <ListPreference
+            android:key="skin"
+            android:title="主题设置"
+            android:entries="@array/skin_options"
+            android:entryValues="@array/skin_options_values"
+            android:dialogTitle="选择主题"
+            android:defaultValue="0"/>
+    </com.github.qianniancc.mcbbs.util.MyPreferenceCategory>
+</PreferenceScreen>
